@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Search Engine
+Comment=
+Exec=python /root/Python/SearchEngine/Search.py
+Icon=kali-cewl
+Path=/root/Python/SearchEngine
+Terminal=true
+StartupNotify=false
+Categories=Utility;Application;
